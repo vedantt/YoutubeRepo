@@ -1,0 +1,29 @@
+5 common QA interview questions [JAVA] 
+
+
+1. What is the difference with abstract class and interface ?
+
+https://medium.com/better-programming/choosing-between-interface-and-abstract-class-7a078551b914
+
+2. What is the difference between final , finally and finalize ?
+
+https://www.javatpoint.com/difference-between-final-finally-and-finalize
+
+3. Write to program to count the character with highest frequency using hashMap  or similar questions  
+
+
+4. If you have defined a parameterized constructor , without defining default constructor and initialize an object what will be the output?
+
+It will give error.
+
+
+5. Give an example of dynamic runtime polymorphism
+
+https://www.javatpoint.com/runtime-polymorphism-in-java
+
+
+
+
+
+
+" you are not your thoughts, you are the one listening to them "
